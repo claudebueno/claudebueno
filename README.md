@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @claudebueno
-- 👀 I’m interested in app & mobile development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in web & mobile development
+- 🌱 I’m currently learning Angular and Flutter
 - 📫 How to reach me : [my blog's contact page](https://www.claudebueno.com/contact)
